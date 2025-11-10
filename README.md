@@ -12,3 +12,5 @@ Goal: This repo includes my assignments from Understanding Uncertainty with Tere
 10/24/2025 - Assignment 5 (Grade Final Submission)
 
 10/30/2025 - Assignment 6
+
+11/17/2025 - Assignment 7
